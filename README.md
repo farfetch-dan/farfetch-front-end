@@ -20,3 +20,5 @@ Bonus points for:
 
 - Including designer name, description, anchor and hover image of product.
 - Add a filter which allows the user to select the brands available within the feed.
+
+Upon completion please store these tasks in a repository and provide us with the link.
