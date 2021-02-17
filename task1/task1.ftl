@@ -43,8 +43,12 @@
     }
 ] >
 
-<!-- HTML Starts Here -->
+<#global cta = { 
+    "copy": "Shop Now",
+    "link": "https://www.farfetch.com/uk/sets/men/new-in-this-week-eu-men.aspx"
+} >
 
+<!-- HTML Starts Here -->
 
 
 <!-- HTML Ends Here ==>
