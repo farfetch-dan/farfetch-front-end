@@ -4,7 +4,7 @@ Within Marketing at Farfetch we are presented with a wide range of requests whic
 
 ## Part 1
 
-The following [index.ftl](./task1/task1.ftl) is a [FreeMarker](https://freemarker.apache.org/docs/ref_directives.html) file which will be used as the base template for our new email campaign. Can you code a solution which will display the [following design](./task1/module_design.jpg) using the products in the array, taking into consideration media queries (breakpoint 960px) and older email clients such as Outlook. 
+The following [index.ftl](./task1/task1.ftl) is a [FreeMarker](https://freemarker.apache.org/docs/ref_directives.html) file which will be used as the base template for our new email campaign. Can you code a solution which will display the [following design](./task1/module_design.jpg) (mobile and tablet/desktop) using the products in the array, taking into consideration media queries (breakpoint 960px) and older email clients such as Outlook. 
 
 We will run the code through the [following tool](https://try.freemarker.apache.org/) and test the subsiquent markup using Litmus.
 
